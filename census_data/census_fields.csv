@@ -1,0 +1,25 @@
+﻿NAME,Placeholder field to return name of county and state,CountyState Name
+S1701_C01_001E,Total!!Estimate!!Population for whom poverty status is determined,Total Population
+S1701_C01_002E,Total!!Estimate!!AGE!!Under 18 years,Total Under 18
+S1701_C01_006E,Total!!Estimate!!AGE!!18 to 64 years,Total 18 to 64
+S1701_C01_010E,Total!!Estimate!!AGE!!65 years and over,Total 65 and over
+S1701_C01_011E,Total!!Estimate!!SEX!!Male,Total Male
+S1701_C01_012E,Total!!Estimate!!SEX!!Female,Total Female
+S1701_C01_027E,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,Total 16 and Over
+S1701_C01_028E,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,Total 16 and Over Employed
+S1701_C02_001E,Below poverty level!!Estimate!!Population for whom poverty status is determined,InPoverty Population
+S1701_C02_002E,Below poverty level!!Estimate!!AGE!!Under 18 years,InPoverty Under 18
+S1701_C02_006E,Below poverty level!!Estimate!!AGE!!18 to 64 years,InPoverty 18 to 64
+S1701_C02_010E,Below poverty level!!Estimate!!AGE!!65 years and over,InPoverty 65 and Over
+S1701_C02_011E,Below poverty level!!Estimate!!SEX!!Male,InPoverty Male
+S1701_C02_012E,Below poverty level!!Estimate!!SEX!!Female,InPoverty Female
+S1701_C02_027E,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,InPoverty 16 and Over
+S1701_C02_028E,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,InPoverty 16 and Over Employed
+S1701_C03_001E,Percent below poverty level!!Estimate!!Population for whom poverty status is determined,PctBelowPoverty Population
+S1701_C03_002E,Percent below poverty level!!Estimate!!AGE!!Under 18 years,PctBelowPoverty Under 18
+S1701_C03_006E,Percent below poverty level!!Estimate!!AGE!!18 to 64 years,PctBelowPoverty 18 to 64
+S1701_C03_010E,Percent below poverty level!!Estimate!!AGE!!65 years and over,PctBelowPoverty 65 and over
+S1701_C03_011E,Percent below poverty level!!Estimate!!SEX!!Male,PctBelowPoverty Male
+S1701_C03_012E,Percent below poverty level!!Estimate!!SEX!!Female,PctBelowPoverty Female
+S1701_C03_027E,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,PctBelowPoverty 16 and Over
+S1701_C03_028E,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,PctBelowPoverty 16 and Over Employed
